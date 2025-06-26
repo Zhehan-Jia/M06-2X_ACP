@@ -16,7 +16,7 @@ The following benchmarks are used for as fitting data:
 3. BBI ([smith2016](https://pubs.acs.org/doi/10.1021/acs.jpclett.6b00780),[burns2017](https://pubs.aip.org/aip/jcp/article/147/16/161727/77022/The-BioFragment-Database-BFDb-An-open-data))
 4. S66x10 ([rezac2011](https://pubs.acs.org/doi/10.1021/ct2002946).)
 
-Their Cartesian coordiantes are also provided in [XYZ](https://github.com/Zhehan-Jia/M06-2X_ACP/tree/main/XYZ)
+Their Cartesian coordiantes are also provided in [XYZ](https://github.com/Zhehan-Jia/M06-2X_ACP/tree/main/XYZ), and their reference energies can also be found in [din](https://github.com/Zhehan-Jia/M06-2X_ACP/tree/main/din)
 
 # ACP terms
 The 'ACP terms' are referred when calculating the electronic energies of the fitting data through non-self-consistent filed calculation under certain conditions. This current ACP terms are calculated when n = 2, *l*<sub>max</sub> = *d* (*l*<sub>max</sub> = *p* for Hydrogen), with 29 exponents (ζ) ranging from 0.12 to 3.0 at 0.001 coefficient. 
@@ -24,4 +24,4 @@ The 'ACP terms' are referred when calculating the electronic energies of the fit
 The ACP terms were fit using [*acpdb* program](https://github.com/aoterodelaroza/acpdb).
 
 # ACPs
-The optimized ACPs is provided in [ACP](https://github.com/Zhehan-Jia/M06-2X_ACP/blob/main/M06-2X6-31%2BG(d%2Cp)_ACP.acp), and the example of using ACPs is listing in the same folder.
+The optimized ACPs is provided in [ACP](https://github.com/Zhehan-Jia/M06-2X_ACP/tree/main/ACP), and the input file of using ACPs is listing in the same folder.
