@@ -1,0 +1,13 @@
+%nprocs=8
+%mem=32GB
+%chk=H.chk
+#p m062x GenECP 6D symm=none int=(grid=ultrafine)
+
+title
+
+0 1
+H     0.000000  0.0000000  0.000000
+
+@/6-31+Gss.gbs/N
+@/M06-2X_ACP.acp/
+
