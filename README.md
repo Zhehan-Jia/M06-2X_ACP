@@ -24,4 +24,4 @@ The 'ACP terms' are referred when calculating the electronic energies of the fit
 The ACP terms were fit using [*acpdb* program](https://github.com/aoterodelaroza/acpdb).
 
 # ACPs
-The optimized ACPs is provided in [ACP](https://github.com/Zhehan-Jia/M06-2X_ACP/tree/main/ACP), and the input file of using ACPs is listing in the same folder.
+The optimized ACPs is provided in [ACP](https://github.com/Zhehan-Jia/M06-2X_ACP/tree/main/ACP), and the input file of using ACPs is listing in the same folder. The raw data can be accessed from [Comprehensive Data](https://github.com/Zhehan-Jia/M06-2X_ACP/blob/main/Comprehensive%20Data.xlsx).
