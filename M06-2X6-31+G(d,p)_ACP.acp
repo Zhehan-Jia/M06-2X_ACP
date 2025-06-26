@@ -6,11 +6,8 @@
 ! Exponent r^n: 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
 ! ACP terms in training set: 1131
 ! Data points in training set: 6056
-! Maximum coefficients applied
-! norm-1 = 4.0000
-! norm-inf = 0.2929
-! wrmstrain = 50.0020
-! wrmsval = 51.9752
+! λ = 4.0000
+
 -H  0
 H____ 2 0
 l
